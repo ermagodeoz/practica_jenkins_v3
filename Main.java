@@ -1,4 +1,3 @@
-javac Main.javac
 /**
  * @author Antonio Santos Ramos
  * 
