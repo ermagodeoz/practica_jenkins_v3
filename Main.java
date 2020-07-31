@@ -7,7 +7,7 @@ javac Main.javac
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("hola a todos y todas  en developmeent");
+		System.out.println("hola a todooos y todas  en developmeent");
 	}
 
 }
